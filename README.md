@@ -65,10 +65,10 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Text                     3 hrs 35 mins       █████████████████████████   100.00 % 
+Text                     2 hrs 18 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -88,5 +88,5 @@ Go                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 13/03/2024 18:30:47 UTC
+ Last Updated on 14/03/2024 18:30:45 UTC
 <!--END_SECTION:waka-->
