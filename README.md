@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,11 +65,11 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Text                     1 hr 11 mins        █████████████████████████   98.46 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Text                     1 hr 52 mins        █████████████████████████   99.01 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  1 hr 12 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in CSS** 
@@ -89,5 +89,5 @@ Go                       1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 20/03/2024 18:31:28 UTC
+ Last Updated on 21/03/2024 18:30:37 UTC
 <!--END_SECTION:waka-->
