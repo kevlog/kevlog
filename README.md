@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -30,10 +32,43 @@ Here are some ideas to get you started:
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+🌆 Daytime                33 commits          ████████████░░░░░░░░░░░░░   49.25 % 
+🌃 Evening                16 commits          ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+🌙 Night                  7 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   10 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Tuesday                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Wednesday                12 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+Thursday                 21 commits          ████████░░░░░░░░░░░░░░░░░   31.34 % 
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Sunday                   14 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -51,5 +86,5 @@ Go                       1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 01/12/2024 18:40:42 UTC
+ Last Updated on 02/12/2024 18:43:49 UTC
 <!--END_SECTION:waka-->
