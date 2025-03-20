@@ -63,10 +63,10 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-SQL                      8 hrs 16 mins       █████████████████████████   100.00 % 
+SQL                      7 hrs 12 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 16 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -86,5 +86,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2025 18:43:53 UTC
+ Last Updated on 20/03/2025 18:42:29 UTC
 <!--END_SECTION:waka-->
