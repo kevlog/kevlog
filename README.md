@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-24%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 62 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -65,10 +63,14 @@ Sunday                   16 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-SQL                      4 hrs 21 mins       █████████████████████████   100.00 % 
+JavaScript               3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   36.48 % 
+SQL                      3 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.88 % 
+HTML                     2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.66 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -88,5 +90,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 25/03/2025 18:43:51 UTC
+ Last Updated on 26/03/2025 18:43:39 UTC
 <!--END_SECTION:waka-->
