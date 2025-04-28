@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 234 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,5 +90,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 28/04/2025 15:48:09 UTC
+ Last Updated on 28/04/2025 18:44:49 UTC
 <!--END_SECTION:waka-->
