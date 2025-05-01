@@ -22,13 +22,15 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 240 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,14 +65,14 @@ Sunday                   32 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   9 hrs 28 mins       █████████████████░░░░░░░░   68.81 % 
-Bash                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Batchfile                39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Python                   10 hrs 30 mins      ██████████████████░░░░░░░   70.13 % 
+Bash                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Batchfile                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -90,5 +92,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 18:44:46 UTC
+ Last Updated on 01/05/2025 18:44:57 UTC
 <!--END_SECTION:waka-->
