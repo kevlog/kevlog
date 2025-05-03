@@ -22,11 +22,15 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2059%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 247 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,6 +38,43 @@ Here are some ideas to get you started:
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌆 Daytime                142 commits         ████████████░░░░░░░░░░░░░   48.14 % 
+🌃 Evening                77 commits          ███████░░░░░░░░░░░░░░░░░░   26.10 % 
+🌙 Night                  26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   50 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Tuesday                  46 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+Wednesday                29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+Thursday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Friday                   45 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Saturday                 30 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Sunday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Python                   8 hrs 33 mins       ███████████████████░░░░░░   74.64 % 
+Batchfile                32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Other                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+
+🔥 Editors: 
+VS Code                  11 hrs 28 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -51,5 +92,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/kevlog/kevlog/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2025 18:44:07 UTC
+ Last Updated on 03/05/2025 18:42:00 UTC
 <!--END_SECTION:waka-->
