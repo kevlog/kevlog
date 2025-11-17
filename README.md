@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-564%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-59.7%20thousand%20lines%20of%20code-blue)
@@ -78,5 +80,5 @@ CSS                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 16/11/2025 17:19:16 UTC
+ Last Updated on 17/11/2025 17:23:47 UTC
 <!--END_SECTION:waka-->
