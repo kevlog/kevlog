@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-11%20hrs%207%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90.05%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -57,51 +57,50 @@ Sunday                   66 commits          ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-SQL                      4 hrs 43 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.86 % 
-Other                    3 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.09 % 
-JavaScript               2 hrs 28 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.73 % 
-C#                       1 hr 16 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.16 % 
-HTML                     1 hr 3 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.58 % 
+SQL                      4 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.26 % 
+Other                    3 hrs 29 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   27.08 % 
+JavaScript               2 hrs 12 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.09 % 
+C#                       1 hr 16 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.89 % 
+HTML                     1 hr 3 mins         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.18 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 22 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   60.07 % 
-Antigravity CLI          2 hrs 52 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.65 % 
-Antigravity IDE          2 hrs 41 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.28 % 
+VS Code                  7 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   58.74 % 
+Antigravity CLI          2 hrs 49 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.81 % 
+Antigravity IDE          2 hrs 30 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.45 % 
 
 🐱‍💻 Projects: 
-Query                    4 hrs 54 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.19 % 
-kevlog.github.io.raw     3 hrs 26 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.71 % 
-901527                   2 hrs 52 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   20.57 % 
-dplkservice              1 hr 17 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.26 % 
-Unknown Project          50 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.02 % 
+Query                    4 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.49 % 
+kevlog.github.io.raw     3 hrs 10 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.63 % 
+901527                   2 hrs 49 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.81 % 
+dplkservice              1 hr 17 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.99 % 
+Unknown Project          50 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.49 % 
 
 💻 Operating System: 
-Windows                  13 hrs 56 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Windows                  12 hrs 55 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 59 mins (64.44%)
+⏱ AI Coding Time: 8 hrs 30 mins (65.91%)
 
-✍️ 2,240 lines written by AI, 71 lines written by hand (96.93% AI-written)
+✍️ 2,177 lines written by AI, 95 lines written by hand (95.82% AI-written)
 
-🔤 6,749,796 Input Tokens, 431,506 Output Tokens
+🔤 6,201,297 Input Tokens, 404,732 Output Tokens
 
-💵 $24.62 Estimated AI Cost This Week
+💵 $22.87 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 154 AI Prompts
+🧠 9 AI Sessions, 143 AI Prompts
 
-Antigravity-Ide          1,591 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.24 % 
-Gemini                   722 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.06 % 
-Antigravity-Cli          89 lines            ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.71 % 
-M                        0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Antigravity-Ide          1,591 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.17 % 
+Gemini                   654 lines           ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   28.02 % 
+Antigravity-Cli          89 lines            ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.93% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🔍 Hands-On Reviewer — 87.31% of changed lines were hand-edited
+🤖 AI-Driven — 95.82% of written lines came from AI
+📝 Concise Prompter — average 157 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
+🔍 Hands-On Reviewer — 87.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +116,5 @@ PowerShell               1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/10/2026 23:33:55 UTC
+ Last Updated on 13/10/2026 21:47:16 UTC
 <!--END_SECTION:waka-->
